@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './content.css';
 const Content = () => (
   <div className="content">
     <p>Once upon a time, there was a young girl and her father, he married a woman with two daughters, she would soon take care of Cinderella after her father's passing. 
